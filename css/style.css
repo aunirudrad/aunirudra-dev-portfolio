@@ -125,7 +125,7 @@ body{
     border: 1px solid rgba(255, 255, 255, 0.1);
 }
 .row .content{
-    min-width: 70%;
+    min-width: 80%;
 }
 .row .content span{
     font-size: 12px;
